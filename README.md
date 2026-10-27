@@ -1,2 +1,0 @@
-# Aseel
-aseel-client 
